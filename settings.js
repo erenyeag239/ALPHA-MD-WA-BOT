@@ -12,20 +12,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
+global.owner = ['2348152119668']
+global.premium = ['2348152119668']
+global.ownernomer = '2348152119668'
+global.ownername = 'Bamireid'
+global.botname = '🎭Bamireids wife🎭 v1.0.0'
+global.footer = ' Bamireids wife is at your service'
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.region = 'India, South India, Kerala'
+global.region = 'Nigeria, Akwa ibom state, uyo'
 global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
 global.myweb = 'https://www.youtube.com/c/AchiBrolk'
-global.packname = 'ALPHA WA BOT MD'
-global.author = 'D.U.A.N.FERNANDO '
+global.packname = 'sticker by: Bamireids wife'
+global.author = 'author: Bamireid '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','$','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
     success: 'Done ✓',
@@ -41,7 +41,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 30,
     monayawal: 1000
 }
    global.rpg = {
